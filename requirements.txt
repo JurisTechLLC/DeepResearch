@@ -12,7 +12,7 @@ alibabacloud_tea_util==0.3.13
 aliyun-python-sdk-core==2.16.0
 aliyun-python-sdk-kms==2.16.5
 annotated-types==0.7.0
-anyio==4.10.0
+anyio==4.14.2
 APScheduler==3.11.0
 astor==0.8.1
 async-timeout==5.0.1
